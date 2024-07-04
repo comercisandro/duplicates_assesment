@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "assesment"
+version = "0.1.0"
+description = "Assesment for COMPASS"
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pandas = "^2.2.2"
+openpyxl = "^3.1.5"
+pytest = "^8.2.2"
+coverage = "^7.5.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
