@@ -76,8 +76,4 @@ This project contains a set of functions designed to identify duplicate contacts
 
 ### Author
 
-- [Your Name](https://github.com/your-username)
-
-### License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+- [Comerci Sandro](https://github.com/https://github.com/comercisandro)
